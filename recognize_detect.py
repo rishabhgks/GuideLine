@@ -124,3 +124,6 @@ for f in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True
     
         cv2.waitKey(1000)
 print "Training done"
+
+
+#Checking changes are made or not
